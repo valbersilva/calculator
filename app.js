@@ -27,3 +27,17 @@ if (escolherOperação === 1) {
           }
       }
   }
+
+  //Observações principais
+  //Dava pra ter usado o else if, ao invés de usar o if    {}else     {}
+  //
+  //funciona assim
+  //if(algo == 1) {
+  //
+  //  }else if{ 
+  //
+  //  }else if{
+  //    }else{
+  //
+  //    }
+  // assim por diante
