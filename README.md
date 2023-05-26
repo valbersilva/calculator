@@ -1,2 +1,3 @@
-# calculator
- a simple calculator
+# Calculator
+
+Project developed during a bootcamp of initiation in programming using javascript
